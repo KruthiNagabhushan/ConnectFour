@@ -2,6 +2,13 @@
 
 This project is a JavaFX GUI implementation of the classic two-player board game, Connect Four. The application follows the Model-View-Controller (MVC) architecture pattern, providing a clear separation of concerns and making the codebase easier to manage and extend.
 
+
+![image](https://github.com/KruthiNagabhushan/ConnectFour/assets/50491875/f39204bc-f0dd-4f97-8fa1-02eeef36633c)
+
+![image](https://github.com/KruthiNagabhushan/ConnectFour/assets/50491875/0f505958-99b8-4a1a-b75d-cd2c51bcd0a2)
+
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
